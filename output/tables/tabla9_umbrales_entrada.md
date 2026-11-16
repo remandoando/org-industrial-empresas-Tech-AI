@@ -1,0 +1,1 @@
+Tabla 9 no estimada: 24 mercados con tamaño observado; por N: {1: 2, 2: 1, 3: 1, 4: 0, 5: 20} (se requieren todas las categorías con al menos 5). Con los datos disponibles solo los modelos que estuvieron en el top 50 tienen tamaño de mercado observado.

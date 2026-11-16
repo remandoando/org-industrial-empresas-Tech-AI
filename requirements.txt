@@ -1,0 +1,10 @@
+# Python 3.13 (probado con 3.13.18)
+pandas==3.0.5
+numpy==2.5.3
+linearmodels==7.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+tabulate==0.10.0
+requests==2.34.2
+datasets>=3.0
+brotli==1.2.1
